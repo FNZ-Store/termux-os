@@ -13,7 +13,7 @@ echo -e " \e[91m                                                                
 echo -e " \e[96m                                                                    / /  \ \  ( (___   " 
 echo -e " \e[96m                                                                   ( ()  () )  \___ \  " 
 echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m t.me/freenzstore                      \ \__/ /   ___/ /"  
-echo -e " \e[1;91m FNZ DEV\e[96m   /\e[1;93m THEME TOOLS                       \____/   /____/"    
+echo -e " \e[1;91m FNZ DEV\e[96m   /\e[1;93m THEME TOOLS                             \____/   /____/"    
 echo ""
 
 banner ( ) {
