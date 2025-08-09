@@ -1,4 +1,9 @@
-
+<p align="center">
+  <a href="https://t.me/fnzstore"><img title="Telegram" src="https://img.shields.io/badge/Join%20Telegram-FNZ%20Store-blue?style=for-the-badge&logo=telegram"></a>
+  <img src="https://img.shields.io/badge/Versi-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dibuat%20oleh-FNZ%20Store-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Termux-orange?style=for-the-badge&logo=linux">
+</p>
 ## Termux-os
 
 * [+] Based on Zsh Shell !
