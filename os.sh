@@ -1,3 +1,4 @@
+
 clear
 echo -e "\e[31m ________    _____   ______       __    __     __    __   __     __  " 
 echo -e "\e[31m(___  ___)  / ___/  (   __ \      \ \  / /     ) )  ( (  (_ \   / _) " 
@@ -7,14 +8,12 @@ echo -e "\e[94m    ) )    ( (       ) \ \  _    / / \/ \ \   ( (    ) )    / _ \
 echo -e "\e[94m   ( (      \ \___  ( ( \ \_))  /_/      \_\   ) \__/ (   _/ / \ \_  " 
 echo -e "\e[92m   /__\      \____\  )_) \__/  (/          \)  \______/  (__/   \__)" 
                     
- 
-echo -e " \e[91m                                                   ____      _____  " 
-echo -e " \e[91m                                                  / __ \    / ____\ " 
-echo -e " \e[96m                                                 / /  \ \  ( (___   " 
-echo -e " \e[96m                                                ( ()  () )  \___ \  " 
-echo -e " \e[1;91m Youtube\e[96m / \e[100;97myoutube.com/h4ck3r0\e[0;31m                  ( ()  () )      ) )" 
-echo -e " \e[1;91m Github\e[96m /\e[1;93m H4Ck3R0                                \ \__/ /   ___/ /"  
-echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m H4Ck3R_0                              \____/   /____/"    
+echo -e " \e[91m                                                                      ____      _____  " 
+echo -e " \e[91m                                                                     / __ \    / ____\ " 
+echo -e " \e[96m                                                                    / /  \ \  ( (___   " 
+echo -e " \e[96m                                                                   ( ()  () )  \___ \  " 
+echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m t.me/freenzstore                      \ \__/ /   ___/ /"  
+echo -e " \e[1;91m FNZ DEV\e[96m   /\e[1;93m THEME TOOLS                       \____/   /____/"    
 echo ""
 
 banner ( ) {
