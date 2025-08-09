@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FNZ-Store/ChatGPT Image Aug 9, 2025, 12_33_30 PM.png" alt="FNZ Store Logo" width="250">
+  <img src="https://raw.githubusercontent.com/FNZ-Store/termux-os/master/ChatGPT Image Aug 9, 2025, 12_33_30 PM.png" alt="FNZ Store Logo" width="250">
 </p>
 <p align="center">
   <a href="https://t.me/fnzstore"><img title="Telegram" src="https://img.shields.io/badge/Join%20Telegram-FNZ%20Store-blue?style=for-the-badge&logo=telegram"></a>
